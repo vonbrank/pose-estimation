@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "cassert": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp",
+        "*.tcc": "cpp",
+        "list": "cpp"
+    },
+    "python.pythonPath": "C:\\Users\\Von Brank\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+}
